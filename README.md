@@ -1,3 +1,3 @@
 # Rust Invaders
 
-Bevy tutorial from Jeremy Chone
+Bevy tutorial by Jeremy Chone
